@@ -10,3 +10,12 @@
 ## 3/16
 * created product-details/ linked to product-list/ to display details (if a product has any)
 * established routing so each product has a unique URL
+
+## 3/17
+* created a buy button and a cart service
+* aded cart route
+* linked cart service and component to display cart items
+
+## 3/18
+* connected predefined shipping prices from a JSON file to checkout using HTTPClient
+* added shipping prices page and route

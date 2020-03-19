@@ -1,6 +1,6 @@
-# angular-c9vvpz-tmgl7g
+# Angular Store App
+### tutorial from https://angular.io/start
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-c9vvpz-tmgl7g)
 [See Live version](https://angular-c9vvpz-tmgl7g.stackblitz.io)
 
 ## 3/15
@@ -19,3 +19,9 @@
 ## 3/18
 * connected predefined shipping prices from a JSON file to checkout using HTTPClient
 * added shipping prices page and route
+* added checkout form and model
+* bare bones app completed, ready for deployment
+
+<details><summary>View form screenshot</summary>
+  
+![name and address registered screenshot](https://user-images.githubusercontent.com/29722295/77118337-370f3600-69f1-11ea-8388-6a432ae593ed.png "registered shipping details")
